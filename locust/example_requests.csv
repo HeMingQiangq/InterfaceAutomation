@@ -1,0 +1,9 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"POST","/data/verify_id_name",6,0,63,68,56,81,77,0.68
+"POST","/data/verify_id_name_bankcard_phone",4,0,58,63,54,83,78,0.45
+"POST","/ocr/bankcard",1,0,270,272,272,272,279,0.11
+"POST","/ocr/idcard",5,0,2000,1909,1239,2377,411,0.56
+"POST","/ocr/parse_bankcard_ocr_result",3,0,1300,1580,1300,2110,2040,0.34
+"POST","/ocr/parse_idcard_ocr_result",5,0,1400,1215,571,1982,2093,0.56
+"None","Total",24,0,570,887,54,2377,820,2.70
+
